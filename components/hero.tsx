@@ -70,7 +70,7 @@ export function Hero() {
               <Cloud className="h-8 w-8" />
             </a>
             <a
-              href="https://github.com/tarunkumarearle"
+              href="https://github.com/TarunEarle/Demo-practice"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white hover:text-[#FFB03B] transition-colors transform hover:scale-110"
