@@ -9,7 +9,7 @@ export function Certifications() {
     'Salesforce Platform Developer-1',
     'Salesforce Certified Associate',
     'Salesforce Certified AI Associate',
-    'Salesforce Certified AI Specialist',
+    'Salesforce Certified Agentforce',
     'Data Cloud Consultant',
     'Agentblazer Champion',
   ];

@@ -6,13 +6,13 @@ import { Code2, Building2, Database, Users } from 'lucide-react';
 export function Projects() {
   const projects = [
     {
-      title: 'Unified Customer View',
+      title: 'Unified Customer View AI-Powered',
       description: 'Integrated customer data across multiple systems for a 360-degree view.',
       icon: Database,
     },
     {
       title: 'REMS',
-      description: 'Real Estate Management System for property tracking and maintenance.',
+      description: 'Risk Evaluation & Mitigation Strategy.',
       icon: Building2,
     },
     {
