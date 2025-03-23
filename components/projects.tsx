@@ -6,18 +6,18 @@ import { Code2, Building2, Database, Users } from 'lucide-react';
 export function Projects() {
   const projects = [
     {
-      title: 'Unified Customer View AI-Powered',
+      title: 'Unified Customer View & AI-Powered Personalization ',
       description: 'Integrated customer data across multiple systems for a 360-degree view.',
       icon: Database,
     },
     {
       title: 'REMS',
-      description: 'Risk Evaluation & Mitigation Strategy.',
+      description: 'Risk Evaluation & Mitigation Strategy is a drug safety program.',
       icon: Building2,
     },
     {
       title: 'Custom Metadata Type Loader',
-      description: 'Tool for efficient management of custom metadata types.',
+      description: 'Upserting and Exporting metadata records related to the selected Custom Metadata Type Object',
       icon: Code2,
     },
     {
